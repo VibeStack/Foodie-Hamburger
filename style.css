@@ -58,6 +58,7 @@ main{
 }
 .section{
     margin-top: 120px;
+    padding: 0 40px;
 }
 .section .img-container{
     max-width: 960px;
